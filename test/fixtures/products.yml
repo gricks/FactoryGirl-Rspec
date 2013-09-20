@@ -1,0 +1,21 @@
+# Fixtures
+# Grandville Ricks
+
+
+one:
+  name: Factory Product
+  category: 1
+  price: 100
+  description: A factory product from our foundry.
+
+two:
+  name: Factory Product XVI
+  category: 1
+  price: 900
+  description: Another factory product from our foundry...
+
+three:
+  name: Gingerbread Man
+  category: 1
+  price: 100000
+  description: Produced in our factory.

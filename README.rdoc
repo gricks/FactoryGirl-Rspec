@@ -1,0 +1,3 @@
+== README
+
+Factory Girl and RSpec tour.
