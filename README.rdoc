@@ -1,5 +1,5 @@
 == README
 
-Factory Girl and RSpec sample application.
+Just a Factory Girl and RSpec sample application/implementation.
 
 http://www.grandvillericks.com
